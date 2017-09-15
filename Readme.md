@@ -1,1 +1,1 @@
-These are all great stuff in Moodle.
+Readme file for the awesome-moodle project
